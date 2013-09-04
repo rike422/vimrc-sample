@@ -1,0 +1,4 @@
+vimrc-sample
+============
+
+vimrc!!!!!!!
